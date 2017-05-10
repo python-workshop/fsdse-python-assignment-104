@@ -1,4 +1,4 @@
-# fsdse-python-assignment-104
+# Reverse characters in a string
 * Can we assume the string is ASCII?
     * Yes
     * Note: Unicode strings could require special handling depending on your language
